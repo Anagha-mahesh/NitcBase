@@ -1,3 +1,3 @@
 # nitcbase
 
-The students will be implementing their code within this repository.
+All files required to build a simple database management system.
